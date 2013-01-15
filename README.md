@@ -3,6 +3,11 @@ Description
 
 Chef recipe for installing the Zeus (now Stingray) Traffic Manager.
 
+Author
+======
+Kos Media, LLC
+Jeremy Bingham <jeremy@dailykos.com>
+
 Requirements
 ============
 
